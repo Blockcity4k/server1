@@ -1,0 +1,199 @@
+[00:42:29] [User Authenticator #6/INFO]: UUID of player Alkxz4 is f7a08a1b-a79d-4d21-ad4e-2a5d5136f349
+[00:42:30] [Server thread/INFO]: Alkxz4 joined the game
+[00:42:30] [Server thread/INFO]: Alkxz4[/207.216.9.73:53519] logged in with entity id 26075 at ([world]-286.44397151057626, 68.0, -1.0328675677214254)
+[00:47:20] [Server thread/INFO]: Alkxz4 has made the advancement [Not Today, Thank You]
+[00:47:38] [Server thread/INFO]: Alkxz4 lost connection: Disconnected
+[00:47:38] [Server thread/INFO]: Alkxz4 left the game
+[00:48:21] [Server thread/INFO]: Alkxz4 (/207.216.9.73:53826) lost connection: Disconnected
+[00:48:32] [User Authenticator #7/INFO]: UUID of player Alkxz4 is f7a08a1b-a79d-4d21-ad4e-2a5d5136f349
+[00:48:32] [Server thread/INFO]: Alkxz4 joined the game
+[00:48:32] [Server thread/INFO]: Alkxz4[/207.216.9.73:53846] logged in with entity id 27029 at ([world]-247.0374922455594, 68.0, 13.098976833343077)
+[01:16:36] [User Authenticator #8/INFO]: UUID of player nullBobobob is 54bbae35-8656-45a7-ae23-f8800cd88d68
+[01:16:37] [Server thread/INFO]: nullBobobob joined the game
+[01:16:37] [Server thread/INFO]: nullBobobob[/24.114.24.12:2901] logged in with entity id 31834 at ([world]-357.15006352258894, 117.0, 89.62383459386551)
+[01:16:43] [Async Chat Thread - #34/INFO]: <nullBobobob> lets vc
+[01:16:45] [Async Chat Thread - #34/INFO]: <Alkxz4> ok
+[01:16:51] [Async Chat Thread - #34/INFO]: <Alkxz4> im still digging this gon take so long
+[01:16:58] [Async Chat Thread - #34/INFO]: <nullBobobob> gon??
+[01:29:41] [Server thread/INFO]: nullBobobob has made the advancement [Minecraft: Trial(s) Edition]
+[01:29:45] [Async Chat Thread - #36/INFO]: <Alkxz4> lets goo
+[01:33:12] [Server thread/INFO]: nullBobobob lost connection: Disconnected
+[01:33:12] [Server thread/INFO]: nullBobobob left the game
+[01:33:17] [User Authenticator #9/INFO]: UUID of player nullBobobob is 54bbae35-8656-45a7-ae23-f8800cd88d68
+[01:33:18] [Server thread/INFO]: nullBobobob joined the game
+[01:33:18] [Server thread/INFO]: nullBobobob[/24.114.24.12:2894] logged in with entity id 35364 at ([world]-390.03286596553744, -41.0, 147.38173156379455)
+[01:38:28] [Server thread/INFO]: nullBobobob fell from a high place
+[01:58:42] [Server thread/INFO]: Alkxz4 was shot by Skeleton
+[02:11:17] [Async Chat Thread - #39/INFO]: <Alkxz4> sleep
+[02:23:23] [Server thread/INFO]: nullBobobob has made the advancement [Ol' Betsy]
+[02:23:28] [Server thread/INFO]: nullBobobob has made the advancement [Take Aim]
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Server thread/INFO]: nullBobobob lost connection: Disconnected
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
+[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[02:29:20] [Server thread/INFO]: nullBobobob left the game
+[03:06:03] [Server thread/INFO]: [Not Secure] [Server] hello
+[03:06:05] [Server thread/INFO]: There are 1 of a max of 20 players online: Alkxz4
+[03:06:07] [Async Chat Thread - #41/INFO]: <Alkxz4> wTF
+[03:06:10] [Server thread/INFO]: [Not Secure] [Server] kys
+[03:06:15] [Async Chat Thread - #41/INFO]: <Alkxz4> ive been digging for hours
+[03:06:39] [Server thread/INFO]: [Not Secure] [Server] what if i regenerated the world
+[03:06:46] [Async Chat Thread - #42/INFO]: <Alkxz4> i would k ms
+[03:06:53] [Server thread/INFO]: [Not Secure] [Server] i made the same seed for shits and giggles
+[03:06:57] [Server thread/INFO]: [Not Secure] [Server] i dont want the same seed
+[03:07:01] [Async Chat Thread - #42/INFO]: <Alkxz4> oh
+[03:07:05] [Async Chat Thread - #42/INFO]: <Alkxz4> dont do that
+[03:07:08] [Server thread/INFO]: [Not Secure] [Server] youd have all your stuff still
+[03:07:10] [Async Chat Thread - #42/INFO]: <Alkxz4> ive been diggind a lot
+[03:07:14] [Server thread/INFO]: [Not Secure] [Server] but everything in the world GONE
+[03:07:18] [Async Chat Thread - #42/INFO]: <Alkxz4> but i would need to dig for a whole day again
+[03:07:26] [Server thread/INFO]: [Not Secure] [Server] just build smt else
+[03:07:29] [Async Chat Thread - #42/INFO]: <Alkxz4> more than a day acrually
+[03:07:31] [Async Chat Thread - #43/INFO]: <Alkxz4> NO BRO
+[03:07:37] [Server thread/INFO]: [Not Secure] [Server] ok brb switching worlds
+[03:07:43] [Async Chat Thread - #43/INFO]: <Alkxz4> i alr spent sm of my time doing this
+[03:07:49] [Async Chat Thread - #43/INFO]: <Alkxz4> FUCK NO
+[03:07:51] [Server thread/INFO]: [Not Secure] [Server] ugh why are you so gay
+[03:08:03] [Async Chat Thread - #43/INFO]: <Alkxz4> SORRY.
+[03:08:04] [Server thread/INFO]: [Not Secure] [Server] i cannot play on the same seed
+[03:08:10] [Async Chat Thread - #42/INFO]: <Alkxz4> WHY
+[03:08:25] [Server thread/INFO]: [Not Secure] [Server] ebcause its no fun
+[03:08:38] [Async Chat Thread - #43/INFO]: <Alkxz4> but i already started so did eric why didnt you use a diff seed
+[03:09:01] [Server thread/INFO]: [Not Secure] [Server] cause i thought its funny
+[03:09:02] [Async Chat Thread - #43/INFO]: <Alkxz4> i dont wanna restart i dug a lot
+[03:09:03] [Async Chat Thread - #42/INFO]: <Alkxz4> like
+[03:09:06] [Async Chat Thread - #42/INFO]: <Alkxz4> a LOT
+[03:09:15] [Server thread/INFO]: [Not Secure] [Server] what did eric build
+[03:09:24] [Async Chat Thread - #42/INFO]: <Alkxz4> nothing but he got stuff
+[03:09:33] [Server thread/INFO]: [Not Secure] [Server] ok so i can just save his inventory
+[03:09:43] [Server thread/INFO]: [Not Secure] [Server] ill use worldedit to dig out smt for u if u want ig
+[03:09:43] [Async Chat Thread - #43/INFO]: <Alkxz4> i think so he has chests full of stuff
+[03:09:49] [Async Chat Thread - #43/INFO]: <Alkxz4> ok
+[03:09:53] [Server thread/INFO]: [Not Secure] [Server] k
+[03:09:59] [Async Chat Thread - #42/INFO]: <Alkxz4> i need a 91 by 97 area
+[03:10:03] [Async Chat Thread - #42/INFO]: <Alkxz4> ive dug most of it
+[03:10:34] [Async Chat Thread - #44/INFO]: <Alkxz4> ok yeah ig we can like find a new area in the new seed that has a lot of flat land
+[03:10:39] [Async Chat Thread - #42/INFO]: <Alkxz4> and you can use world edit
+[03:10:45] [Async Chat Thread - #42/INFO]: <Alkxz4> want me to ask eric if its ok
+[03:12:06] [Server thread/INFO]: [Not Secure] [Server] k
+[03:12:25] [Async Chat Thread - #45/INFO]: <Alkxz4> he said
+[03:12:29] [Async Chat Thread - #45/INFO]: <Alkxz4> what abt the stuff that we got
+[03:14:53] [Server thread/INFO]: [Not Secure] [Server] hold on im looking into alternative options
+[03:14:56] [Async Chat Thread - #47/INFO]: <Alkxz4> ok
+[03:22:56] [Server thread/INFO]: [Not Secure] [Server] oh my god my frankenstein is alive
+[03:22:58] [Server thread/INFO]: There are 1 of a max of 20 players online: Alkxz4
+[03:23:00] [Async Chat Thread - #49/INFO]: <Alkxz4> what
+[03:23:07] [Server thread/INFO]: [Not Secure] [Server] have you guys explored the world a lot
+[03:23:10] [Server thread/INFO]: [Not Secure] [Server] or just near spawn
+[03:23:15] [Async Chat Thread - #49/INFO]: <Alkxz4> near spawn
+[03:23:36] [Server thread/INFO]: [Not Secure] [Server] ok i have a the idea
+[03:23:39] [Async Chat Thread - #49/INFO]: <Alkxz4> ok
+[03:23:45] [Server thread/INFO]: [Not Secure] [Server] bye
+[03:23:47] [Async Chat Thread - #50/INFO]: <Alkxz4> bye
+[03:45:29] [Server thread/INFO]: [Not Secure] [Server] im shutting down the server for a little
+[03:45:31] [Server thread/INFO]: There are 1 of a max of 20 players online: Alkxz4
+[03:45:33] [Async Chat Thread - #51/INFO]: <Alkxz4> ok
+[03:45:33] [Server thread/INFO]: [Not Secure] [Server] bye
+[03:45:35] [Server thread/INFO]: Stopping the server
+[03:45:35] [Server thread/WARN]: java.lang.Throwable: Server stopped
+[03:45:35] [Server thread/WARN]: 	at io.papermc.paper.util.TraceUtil.dumpTraceForThread(TraceUtil.java:16)
+[03:45:35] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.safeShutdown(MinecraftServer.java:1141)
+[03:45:35] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.halt(MinecraftServer.java:1136)
+[03:45:35] [Server thread/WARN]: 	at net.minecraft.server.commands.StopCommand.lambda$register$2(StopCommand.java:12)
+[03:45:35] [Server thread/WARN]: 	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73)
+[03:45:35] [Server thread/WARN]: 	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31)
+[03:45:35] [Server thread/WARN]: 	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19)
+[03:45:35] [Server thread/WARN]: 	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8)
+[03:45:35] [Server thread/WARN]: 	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5)
+[03:45:35] [Server thread/WARN]: 	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103)
+[03:45:35] [Server thread/WARN]: 	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443)
+[03:45:35] [Server thread/WARN]: 	at net.minecraft.commands.Commands.performCommand(Commands.java:350)
+[03:45:35] [Server thread/WARN]: 	at net.minecraft.commands.Commands.performCommand(Commands.java:337)
+[03:45:35] [Server thread/WARN]: 	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:327)
+[03:45:35] [Server thread/WARN]: 	at org.bukkit.craftbukkit.command.VanillaCommandWrapper.execute(VanillaCommandWrapper.java:55)
+[03:45:35] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
+[03:45:35] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000)
+[03:45:35] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985)
+[03:45:35] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526)
+[03:45:35] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474)
+[03:45:35] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[03:45:35] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[03:45:35] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[03:45:35] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1570)
+[03:45:35] [Server thread/INFO]: Stopping server
+[03:45:35] [Server thread/INFO]: Saving players
+[03:45:35] [Server thread/INFO]: Alkxz4 lost connection: Server closed
+[03:45:35] [Server thread/INFO]: Alkxz4 left the game
+[03:45:35] [Server thread/INFO]: Saving worlds
+[03:45:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:45:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:45:35] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:45:35] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:45:35] [Server thread/INFO]: [ChunkHolderManager] Saved 37 block chunks, 384 entity chunks, 1 poi chunks in world 'world' in 0.25s
+[03:45:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:45:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:45:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:45:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:45:36] [Server thread/INFO]: [ChunkHolderManager] Saved 795 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.27s
+[03:45:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:45:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:45:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:45:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:45:36] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.18s
+[03:45:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:45:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:45:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:45:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:45:36] [Thread-0/WARN]: java.lang.Throwable: Server stopped
+[03:45:36] [Thread-0/WARN]: 	at io.papermc.paper.util.TraceUtil.dumpTraceForThread(TraceUtil.java:16)
+[03:45:36] [Thread-0/WARN]: 	at net.minecraft.server.MinecraftServer.safeShutdown(MinecraftServer.java:1141)
+[03:45:36] [Thread-0/WARN]: 	at org.bukkit.craftbukkit.util.ServerShutdownThread.run(ServerShutdownThread.java:16)
