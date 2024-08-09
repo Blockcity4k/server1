@@ -1,199 +1,296 @@
-[00:42:29] [User Authenticator #6/INFO]: UUID of player Alkxz4 is f7a08a1b-a79d-4d21-ad4e-2a5d5136f349
-[00:42:30] [Server thread/INFO]: Alkxz4 joined the game
-[00:42:30] [Server thread/INFO]: Alkxz4[/207.216.9.73:53519] logged in with entity id 26075 at ([world]-286.44397151057626, 68.0, -1.0328675677214254)
-[00:47:20] [Server thread/INFO]: Alkxz4 has made the advancement [Not Today, Thank You]
-[00:47:38] [Server thread/INFO]: Alkxz4 lost connection: Disconnected
-[00:47:38] [Server thread/INFO]: Alkxz4 left the game
-[00:48:21] [Server thread/INFO]: Alkxz4 (/207.216.9.73:53826) lost connection: Disconnected
-[00:48:32] [User Authenticator #7/INFO]: UUID of player Alkxz4 is f7a08a1b-a79d-4d21-ad4e-2a5d5136f349
-[00:48:32] [Server thread/INFO]: Alkxz4 joined the game
-[00:48:32] [Server thread/INFO]: Alkxz4[/207.216.9.73:53846] logged in with entity id 27029 at ([world]-247.0374922455594, 68.0, 13.098976833343077)
-[01:16:36] [User Authenticator #8/INFO]: UUID of player nullBobobob is 54bbae35-8656-45a7-ae23-f8800cd88d68
-[01:16:37] [Server thread/INFO]: nullBobobob joined the game
-[01:16:37] [Server thread/INFO]: nullBobobob[/24.114.24.12:2901] logged in with entity id 31834 at ([world]-357.15006352258894, 117.0, 89.62383459386551)
-[01:16:43] [Async Chat Thread - #34/INFO]: <nullBobobob> lets vc
-[01:16:45] [Async Chat Thread - #34/INFO]: <Alkxz4> ok
-[01:16:51] [Async Chat Thread - #34/INFO]: <Alkxz4> im still digging this gon take so long
-[01:16:58] [Async Chat Thread - #34/INFO]: <nullBobobob> gon??
-[01:29:41] [Server thread/INFO]: nullBobobob has made the advancement [Minecraft: Trial(s) Edition]
-[01:29:45] [Async Chat Thread - #36/INFO]: <Alkxz4> lets goo
-[01:33:12] [Server thread/INFO]: nullBobobob lost connection: Disconnected
-[01:33:12] [Server thread/INFO]: nullBobobob left the game
-[01:33:17] [User Authenticator #9/INFO]: UUID of player nullBobobob is 54bbae35-8656-45a7-ae23-f8800cd88d68
-[01:33:18] [Server thread/INFO]: nullBobobob joined the game
-[01:33:18] [Server thread/INFO]: nullBobobob[/24.114.24.12:2894] logged in with entity id 35364 at ([world]-390.03286596553744, -41.0, 147.38173156379455)
-[01:38:28] [Server thread/INFO]: nullBobobob fell from a high place
-[01:58:42] [Server thread/INFO]: Alkxz4 was shot by Skeleton
-[02:11:17] [Async Chat Thread - #39/INFO]: <Alkxz4> sleep
-[02:23:23] [Server thread/INFO]: nullBobobob has made the advancement [Ol' Betsy]
-[02:23:28] [Server thread/INFO]: nullBobobob has made the advancement [Take Aim]
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Server thread/INFO]: nullBobobob lost connection: Disconnected
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Netty Epoll Server IO #1/WARN]: io.netty.channel.StacklessClosedChannelException
-[02:29:20] [Netty Epoll Server IO #1/WARN]: 	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
-[02:29:20] [Server thread/INFO]: nullBobobob left the game
-[03:06:03] [Server thread/INFO]: [Not Secure] [Server] hello
-[03:06:05] [Server thread/INFO]: There are 1 of a max of 20 players online: Alkxz4
-[03:06:07] [Async Chat Thread - #41/INFO]: <Alkxz4> wTF
-[03:06:10] [Server thread/INFO]: [Not Secure] [Server] kys
-[03:06:15] [Async Chat Thread - #41/INFO]: <Alkxz4> ive been digging for hours
-[03:06:39] [Server thread/INFO]: [Not Secure] [Server] what if i regenerated the world
-[03:06:46] [Async Chat Thread - #42/INFO]: <Alkxz4> i would k ms
-[03:06:53] [Server thread/INFO]: [Not Secure] [Server] i made the same seed for shits and giggles
-[03:06:57] [Server thread/INFO]: [Not Secure] [Server] i dont want the same seed
-[03:07:01] [Async Chat Thread - #42/INFO]: <Alkxz4> oh
-[03:07:05] [Async Chat Thread - #42/INFO]: <Alkxz4> dont do that
-[03:07:08] [Server thread/INFO]: [Not Secure] [Server] youd have all your stuff still
-[03:07:10] [Async Chat Thread - #42/INFO]: <Alkxz4> ive been diggind a lot
-[03:07:14] [Server thread/INFO]: [Not Secure] [Server] but everything in the world GONE
-[03:07:18] [Async Chat Thread - #42/INFO]: <Alkxz4> but i would need to dig for a whole day again
-[03:07:26] [Server thread/INFO]: [Not Secure] [Server] just build smt else
-[03:07:29] [Async Chat Thread - #42/INFO]: <Alkxz4> more than a day acrually
-[03:07:31] [Async Chat Thread - #43/INFO]: <Alkxz4> NO BRO
-[03:07:37] [Server thread/INFO]: [Not Secure] [Server] ok brb switching worlds
-[03:07:43] [Async Chat Thread - #43/INFO]: <Alkxz4> i alr spent sm of my time doing this
-[03:07:49] [Async Chat Thread - #43/INFO]: <Alkxz4> FUCK NO
-[03:07:51] [Server thread/INFO]: [Not Secure] [Server] ugh why are you so gay
-[03:08:03] [Async Chat Thread - #43/INFO]: <Alkxz4> SORRY.
-[03:08:04] [Server thread/INFO]: [Not Secure] [Server] i cannot play on the same seed
-[03:08:10] [Async Chat Thread - #42/INFO]: <Alkxz4> WHY
-[03:08:25] [Server thread/INFO]: [Not Secure] [Server] ebcause its no fun
-[03:08:38] [Async Chat Thread - #43/INFO]: <Alkxz4> but i already started so did eric why didnt you use a diff seed
-[03:09:01] [Server thread/INFO]: [Not Secure] [Server] cause i thought its funny
-[03:09:02] [Async Chat Thread - #43/INFO]: <Alkxz4> i dont wanna restart i dug a lot
-[03:09:03] [Async Chat Thread - #42/INFO]: <Alkxz4> like
-[03:09:06] [Async Chat Thread - #42/INFO]: <Alkxz4> a LOT
-[03:09:15] [Server thread/INFO]: [Not Secure] [Server] what did eric build
-[03:09:24] [Async Chat Thread - #42/INFO]: <Alkxz4> nothing but he got stuff
-[03:09:33] [Server thread/INFO]: [Not Secure] [Server] ok so i can just save his inventory
-[03:09:43] [Server thread/INFO]: [Not Secure] [Server] ill use worldedit to dig out smt for u if u want ig
-[03:09:43] [Async Chat Thread - #43/INFO]: <Alkxz4> i think so he has chests full of stuff
-[03:09:49] [Async Chat Thread - #43/INFO]: <Alkxz4> ok
-[03:09:53] [Server thread/INFO]: [Not Secure] [Server] k
-[03:09:59] [Async Chat Thread - #42/INFO]: <Alkxz4> i need a 91 by 97 area
-[03:10:03] [Async Chat Thread - #42/INFO]: <Alkxz4> ive dug most of it
-[03:10:34] [Async Chat Thread - #44/INFO]: <Alkxz4> ok yeah ig we can like find a new area in the new seed that has a lot of flat land
-[03:10:39] [Async Chat Thread - #42/INFO]: <Alkxz4> and you can use world edit
-[03:10:45] [Async Chat Thread - #42/INFO]: <Alkxz4> want me to ask eric if its ok
-[03:12:06] [Server thread/INFO]: [Not Secure] [Server] k
-[03:12:25] [Async Chat Thread - #45/INFO]: <Alkxz4> he said
-[03:12:29] [Async Chat Thread - #45/INFO]: <Alkxz4> what abt the stuff that we got
-[03:14:53] [Server thread/INFO]: [Not Secure] [Server] hold on im looking into alternative options
-[03:14:56] [Async Chat Thread - #47/INFO]: <Alkxz4> ok
-[03:22:56] [Server thread/INFO]: [Not Secure] [Server] oh my god my frankenstein is alive
-[03:22:58] [Server thread/INFO]: There are 1 of a max of 20 players online: Alkxz4
-[03:23:00] [Async Chat Thread - #49/INFO]: <Alkxz4> what
-[03:23:07] [Server thread/INFO]: [Not Secure] [Server] have you guys explored the world a lot
-[03:23:10] [Server thread/INFO]: [Not Secure] [Server] or just near spawn
-[03:23:15] [Async Chat Thread - #49/INFO]: <Alkxz4> near spawn
-[03:23:36] [Server thread/INFO]: [Not Secure] [Server] ok i have a the idea
-[03:23:39] [Async Chat Thread - #49/INFO]: <Alkxz4> ok
-[03:23:45] [Server thread/INFO]: [Not Secure] [Server] bye
-[03:23:47] [Async Chat Thread - #50/INFO]: <Alkxz4> bye
-[03:45:29] [Server thread/INFO]: [Not Secure] [Server] im shutting down the server for a little
-[03:45:31] [Server thread/INFO]: There are 1 of a max of 20 players online: Alkxz4
-[03:45:33] [Async Chat Thread - #51/INFO]: <Alkxz4> ok
-[03:45:33] [Server thread/INFO]: [Not Secure] [Server] bye
-[03:45:35] [Server thread/INFO]: Stopping the server
-[03:45:35] [Server thread/WARN]: java.lang.Throwable: Server stopped
-[03:45:35] [Server thread/WARN]: 	at io.papermc.paper.util.TraceUtil.dumpTraceForThread(TraceUtil.java:16)
-[03:45:35] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.safeShutdown(MinecraftServer.java:1141)
-[03:45:35] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.halt(MinecraftServer.java:1136)
-[03:45:35] [Server thread/WARN]: 	at net.minecraft.server.commands.StopCommand.lambda$register$2(StopCommand.java:12)
-[03:45:35] [Server thread/WARN]: 	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73)
-[03:45:35] [Server thread/WARN]: 	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31)
-[03:45:35] [Server thread/WARN]: 	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19)
-[03:45:35] [Server thread/WARN]: 	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8)
-[03:45:35] [Server thread/WARN]: 	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5)
-[03:45:35] [Server thread/WARN]: 	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103)
-[03:45:35] [Server thread/WARN]: 	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443)
-[03:45:35] [Server thread/WARN]: 	at net.minecraft.commands.Commands.performCommand(Commands.java:350)
-[03:45:35] [Server thread/WARN]: 	at net.minecraft.commands.Commands.performCommand(Commands.java:337)
-[03:45:35] [Server thread/WARN]: 	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:327)
-[03:45:35] [Server thread/WARN]: 	at org.bukkit.craftbukkit.command.VanillaCommandWrapper.execute(VanillaCommandWrapper.java:55)
-[03:45:35] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
-[03:45:35] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000)
-[03:45:35] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985)
-[03:45:35] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526)
-[03:45:35] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474)
-[03:45:35] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
-[03:45:35] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
-[03:45:35] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
-[03:45:35] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1570)
-[03:45:35] [Server thread/INFO]: Stopping server
-[03:45:35] [Server thread/INFO]: Saving players
-[03:45:35] [Server thread/INFO]: Alkxz4 lost connection: Server closed
-[03:45:35] [Server thread/INFO]: Alkxz4 left the game
-[03:45:35] [Server thread/INFO]: Saving worlds
-[03:45:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:45:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[03:45:35] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[03:45:35] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[03:45:35] [Server thread/INFO]: [ChunkHolderManager] Saved 37 block chunks, 384 entity chunks, 1 poi chunks in world 'world' in 0.25s
-[03:45:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[03:45:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[03:45:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[03:45:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[03:45:36] [Server thread/INFO]: [ChunkHolderManager] Saved 795 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.27s
-[03:45:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[03:45:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[03:45:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[03:45:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[03:45:36] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.18s
-[03:45:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:45:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:45:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:45:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[03:45:36] [Thread-0/WARN]: java.lang.Throwable: Server stopped
-[03:45:36] [Thread-0/WARN]: 	at io.papermc.paper.util.TraceUtil.dumpTraceForThread(TraceUtil.java:16)
-[03:45:36] [Thread-0/WARN]: 	at net.minecraft.server.MinecraftServer.safeShutdown(MinecraftServer.java:1141)
-[03:45:36] [Thread-0/WARN]: 	at org.bukkit.craftbukkit.util.ServerShutdownThread.run(ServerShutdownThread.java:16)
+[04:58:48] [ServerMain/INFO]: [bootstrap] Running Java 22 (Java HotSpot(TM) 64-Bit Server VM 22.0.2+9-70; Oracle Corporation null) on Linux 6.1.0-22-cloud-amd64 (amd64)
+[04:58:48] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-124-master@df3b654 (2024-08-02T00:02:38Z) for Minecraft 1.21
+[04:58:49] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[04:58:49] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[04:58:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:58:58] [ServerMain/INFO]: Loaded 1290 recipes
+[04:58:58] [ServerMain/INFO]: Loaded 1399 advancements
+[04:58:59] [Server thread/INFO]: Starting minecraft server version 1.21
+[04:58:59] [Server thread/WARN]: ****************************
+[04:58:59] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[04:58:59] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[04:58:59] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[04:58:59] [Server thread/WARN]: ****************************
+[04:58:59] [Server thread/INFO]: Loading properties
+[04:58:59] [Server thread/INFO]: This server is running Paper version 1.21-124-master@df3b654 (2024-08-02T00:02:38Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[04:59:00] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[04:59:00] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:59:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:59:00] [Server thread/INFO]: Debug logging is enabled
+[04:59:01] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[04:59:01] [Server thread/INFO]: Default game type: SURVIVAL
+[04:59:01] [Server thread/INFO]: Generating keypair
+[04:59:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:59:01] [Server thread/DEBUG]: [io.netty.util.internal.NativeLibraryLoader] -Dio.netty.native.workdir: /tmp (io.netty.tmpdir)
+[04:59:01] [Server thread/DEBUG]: [io.netty.util.internal.NativeLibraryLoader] -Dio.netty.native.deleteLibAfterLoading: true
+[04:59:01] [Server thread/DEBUG]: [io.netty.util.internal.NativeLibraryLoader] -Dio.netty.native.tryPatchShadedId: true
+[04:59:01] [Server thread/DEBUG]: [io.netty.util.internal.NativeLibraryLoader] -Dio.netty.native.detectNativeLibraryDuplicates: true
+[04:59:01] [Server thread/DEBUG]: [io.netty.util.internal.NativeLibraryLoader] Successfully loaded the library /tmp/libnetty_transport_native_epoll_x86_649888178114839461762.so
+[04:59:01] [Server thread/DEBUG]: [io.netty.util.NetUtil] -Djava.net.preferIPv4Stack: false
+[04:59:01] [Server thread/DEBUG]: [io.netty.util.NetUtil] -Djava.net.preferIPv6Addresses: false
+[04:59:01] [Server thread/DEBUG]: [io.netty.util.NetUtilInitializations] Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+[04:59:01] [Server thread/DEBUG]: [io.netty.util.NetUtil] /proc/sys/net/core/somaxconn: 4096
+[04:59:01] [Server thread/DEBUG]: [io.netty.channel.MultithreadEventLoopGroup] -Dio.netty.eventLoopThreads: 4
+[04:59:01] [Server thread/DEBUG]: [io.netty.util.concurrent.GlobalEventExecutor] -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+[04:59:01] [Server thread/DEBUG]: [io.netty.util.internal.PlatformDependent] org.jctools-core.MpscChunkedArrayQueue: available
+[04:59:01] [Server thread/INFO]: Using epoll channel type
+[04:59:01] [Server thread/DEBUG]: [io.netty.buffer.AbstractByteBuf] -Dio.netty.buffer.checkAccessible: true
+[04:59:01] [Server thread/DEBUG]: [io.netty.buffer.AbstractByteBuf] -Dio.netty.buffer.checkBounds: true
+[04:59:01] [Server thread/DEBUG]: [io.netty.util.ResourceLeakDetectorFactory] Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5427d98d
+[04:59:01] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[04:59:01] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[04:59:01] [Server thread/DEBUG]: [io.netty.channel.DefaultChannelId] -Dio.netty.processId: 414752 (auto-detected)
+[04:59:01] [Server thread/DEBUG]: [io.netty.channel.DefaultChannelId] -Dio.netty.machineId: 42:01:0a:ff:fe:b6:00:03 (auto-detected)
+[04:59:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:59:01] [Server thread/INFO]: Preparing level "world"
+[04:59:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:59:03] [Server thread/INFO]: Time elapsed: 984 ms
+[04:59:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[04:59:05] [Server thread/INFO]: Time elapsed: 1527 ms
+[04:59:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[04:59:05] [Server thread/INFO]: Time elapsed: 172 ms
+[04:59:05] [Server thread/INFO]: [spark] Starting background profiler...
+[04:59:05] [Server thread/INFO]: Done preparing level "world" (3.967s)
+[04:59:05] [Server thread/INFO]: Running delayed init tasks
+[04:59:05] [Server thread/INFO]: Done (19.010s)! For help, type "help"
+[04:59:05] [Server thread/INFO]: Timings Reset
+[04:59:09] [Netty Epoll Server IO #1/DEBUG]: [io.netty.util.Recycler] -Dio.netty.recycler.maxCapacityPerThread: 4096
+[04:59:09] [Netty Epoll Server IO #1/DEBUG]: [io.netty.util.Recycler] -Dio.netty.recycler.ratio: 8
+[04:59:09] [Netty Epoll Server IO #1/DEBUG]: [io.netty.util.Recycler] -Dio.netty.recycler.chunkSize: 32
+[04:59:09] [Netty Epoll Server IO #1/DEBUG]: [io.netty.util.Recycler] -Dio.netty.recycler.blocking: false
+[04:59:09] [Netty Epoll Server IO #1/DEBUG]: [io.netty.util.Recycler] -Dio.netty.recycler.batchFastThreadLocalOnly: true
+[04:59:11] [User Authenticator #0/DEBUG]: Connecting to https://sessionserver.mojang.com/session/minecraft/hasJoined?serverId=-2862b140645e8355275c40750b07e2a6f6e99606&username=BlockCity4K
+[04:59:11] [User Authenticator #0/INFO]: UUID of player BlockCity4K is e5f05c89-3022-409b-8909-885be0d94150
+[04:59:12] [Worker-Main-1/DEBUG]: Calculation for Reference{ResourceKey[minecraft:worldgen/structure_set / minecraft:strongholds]=StructureSet[structures=[StructureSelectionEntry[structure=Reference{ResourceKey[minecraft:worldgen/structure / minecraft:stronghold]=net.minecraft.world.level.levelgen.structure.structures.StrongholdStructure@3d13f5d6}, weight=1]], placement=net.minecraft.world.level.levelgen.structure.placement.ConcentricRingsStructurePlacement@90f14b9]} took 10.038s
+[04:59:13] [Server thread/INFO]: BlockCity4K joined the game
+[04:59:13] [Server thread/INFO]: BlockCity4K[/101.44.82.72:54844] logged in with entity id 74 at ([world]-427.99730199557763, 94.0, 82.30000001192093)
+[04:59:34] [User Authenticator #0/DEBUG]: Connecting to https://sessionserver.mojang.com/session/minecraft/hasJoined?serverId=-7646d17f4c82fb9fd983c4c1ad0f7e584573a421&username=Alkxz4
+[04:59:35] [User Authenticator #0/INFO]: UUID of player Alkxz4 is f7a08a1b-a79d-4d21-ad4e-2a5d5136f349
+[04:59:35] [Server thread/INFO]: Alkxz4 joined the game
+[04:59:35] [Server thread/INFO]: Alkxz4[/207.216.9.73:65383] logged in with entity id 500 at ([world]-265.7102922601573, 44.0, 82.4399618021065)
+[05:03:41] [Server thread/INFO]: BlockCity4K issued server command: /paper mobcaps
+[05:04:53] [Server thread/INFO]: BlockCity4K lost connection: Disconnected
+[05:04:53] [Server thread/INFO]: BlockCity4K left the game
+[05:13:40] [User Authenticator #1/DEBUG]: Connecting to https://sessionserver.mojang.com/session/minecraft/hasJoined?serverId=-608fefbfa90deee7659d6e49563d79abd9bd7b12&username=BlockCity4K
+[05:13:40] [User Authenticator #1/INFO]: UUID of player BlockCity4K is e5f05c89-3022-409b-8909-885be0d94150
+[05:13:41] [Server thread/INFO]: BlockCity4K joined the game
+[05:13:41] [Server thread/INFO]: BlockCity4K[/101.44.82.72:42136] logged in with entity id 3338 at ([world]-283.9323153406752, 77.10131520987476, 40.0104553978148)
+[05:13:43] [Async Chat Thread - #2/INFO]: <Alkxz4> hi
+[05:13:47] [Async Chat Thread - #2/INFO]: <BlockCity4K> hi
+[05:13:54] [Server thread/INFO]: BlockCity4K issued server command: /reload
+[05:13:54] [Server thread/INFO]: BlockCity4K: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[05:14:49] [Server thread/INFO]: BlockCity4K lost connection: Disconnected
+[05:14:49] [Server thread/INFO]: BlockCity4K left the game
+[05:15:17] [User Authenticator #2/DEBUG]: Connecting to https://sessionserver.mojang.com/session/minecraft/hasJoined?serverId=-5d4f63ef27536f1313dc1d5c00075468e305a1d0&username=BlockCity4K
+[05:15:17] [User Authenticator #2/INFO]: UUID of player BlockCity4K is e5f05c89-3022-409b-8909-885be0d94150
+[05:15:18] [Server thread/INFO]: BlockCity4K joined the game
+[05:15:18] [Server thread/INFO]: BlockCity4K[/101.44.82.72:56656] logged in with entity id 3696 at ([world]-329.3622946202196, 82.0, 46.85736790271415)
+[05:15:20] [Async Chat Thread - #3/INFO]: <Alkxz4> hi
+[05:15:33] [Server thread/INFO]: BlockCity4K issued server command: /reload confirm
+[05:15:33] [Server thread/INFO]: BlockCity4K: Please note that this command is not supported and may cause issues when using some plugins.
+[05:15:33] [Server thread/INFO]: BlockCity4K: If you encounter any issues please use the /stop command to restart your server.
+[05:15:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:15:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:15:33] [Server thread/INFO]: Debug logging is enabled
+[05:15:34] [Server thread/DEBUG]: Finished reloading TagManager
+[05:15:34] [Server thread/INFO]: Loaded 1290 recipes
+[05:15:34] [Server thread/DEBUG]: Finished reloading RecipeManager
+[05:15:34] [Server thread/DEBUG]: Finished reloading ServerFunctionLibrary
+[05:15:34] [Server thread/INFO]: Loaded 1399 advancements
+[05:15:34] [Server thread/DEBUG]: Finished reloading ServerAdvancementManager
+[05:15:34] [Server thread/INFO]: Resource reload finished after 344 ms
+[05:15:34] [Server thread/INFO]: TagManager took approximately 58 ms (58 ms preparing, 0 ms applying)
+[05:15:34] [Server thread/INFO]: RecipeManager took approximately 106 ms (57 ms preparing, 49 ms applying)
+[05:15:34] [Server thread/INFO]: ServerFunctionLibrary took approximately 0 ms (0 ms preparing, 0 ms applying)
+[05:15:34] [Server thread/INFO]: ServerAdvancementManager took approximately 171 ms (64 ms preparing, 107 ms applying)
+[05:15:34] [Server thread/INFO]: Total blocking time: 156 ms
+[05:15:34] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[05:15:34] [Paper Async Command Builder Thread Pool - 2/ERROR]: Caught previously unhandled exception :
+[05:15:34] [Paper Async Command Builder Thread Pool - 2/ERROR]: Paper Async Command Builder Thread Pool - 2
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.jar:1.21-124-df3b654]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.jar:1.21-124-df3b654]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.jar:1.21-124-df3b654]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1570) ~[?:?]
+[05:15:34] [Server thread/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[05:15:34] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:15:34] [Paper Async Command Builder Thread Pool - 3/ERROR]: Caught previously unhandled exception :
+[05:15:34] [Paper Async Command Builder Thread Pool - 3/ERROR]: Paper Async Command Builder Thread Pool - 3
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.jar:1.21-124-df3b654]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.jar:1.21-124-df3b654]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.jar:1.21-124-df3b654]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1570) ~[?:?]
+[05:15:34] [Server thread/INFO]: BlockCity4K: Reload complete.
+[05:15:34] [Server thread/INFO]: Timings Reset
+[05:15:46] [Async Chat Thread - #3/INFO]: <BlockCity4K> more mobs MIGHT be spawning
+[05:15:49] [Async Chat Thread - #3/INFO]: <Alkxz4> oh..
+[05:15:55] [Async Chat Thread - #3/INFO]: <Alkxz4> its ok im mining andeite
+[05:15:57] [Async Chat Thread - #3/INFO]: <BlockCity4K> k
+[05:17:36] [Server thread/INFO]: BlockCity4K lost connection: Disconnected
+[05:17:36] [Server thread/INFO]: BlockCity4K left the game
+[05:17:43] [Server thread/INFO]: Villager Villager['Villager'/125, uuid='d75fbf97-d078-40e8-a1ba-bbe9a78324e0', l='ServerLevel[world]', x=-467.55, y=72.00, z=170.30, cpos=[-30, 10], tl=163609, v=true] died, message: 'Villager was slain by Zombie'
+[05:18:34] [User Authenticator #3/DEBUG]: Connecting to https://sessionserver.mojang.com/session/minecraft/hasJoined?serverId=-61f5e9dafeb493a766105d2585ae4e56f968c4af&username=BlockCity4K
+[05:18:34] [User Authenticator #3/INFO]: UUID of player BlockCity4K is e5f05c89-3022-409b-8909-885be0d94150
+[05:18:35] [Server thread/INFO]: BlockCity4K joined the game
+[05:18:35] [Server thread/INFO]: BlockCity4K[/101.44.82.72:60116] logged in with entity id 4084 at ([world]-465.4603905547637, 75.56904711312373, 163.37512900529643)
+[05:18:38] [Async Chat Thread - #5/INFO]: <Alkxz4> hi
+[05:18:48] [Async Chat Thread - #5/INFO]: <BlockCity4K> tHTE
+[05:18:51] [Async Chat Thread - #5/INFO]: <Alkxz4> ok
+[05:19:08] [Server thread/DEBUG]: Removed POI of type Reference{ResourceKey[minecraft:point_of_interest_type / minecraft:home]=PoiType[matchingStates=[Block{minecraft:purple_bed}[facing=south,occupied=false,part=head], Block{minecraft:blue_bed}[facing=north,occupied=true,part=head], Block{minecraft:black_bed}[facing=south,occupied=true,part=head], Block{minecraft:purple_bed}[facing=north,occupied=false,part=head], Block{minecraft:orange_bed}[facing=south,occupied=false,part=head], Block{minecraft:magenta_bed}[facing=west,occupied=true,part=head], Block{minecraft:gray_bed}[facing=north,occupied=false,part=head], Block{minecraft:purple_bed}[facing=west,occupied=true,part=head], Block{minecraft:orange_bed}[facing=north,occupied=false,part=head], Block{minecraft:brown_bed}[facing=north,occupied=false,part=head], Block{minecraft:light_blue_bed}[facing=west,occupied=true,part=head], Block{minecraft:pink_bed}[facing=west,occupied=false,part=head], Block{minecraft:purple_bed}[facing=east,occupied=false,part=head], Block{minecraft:orange_bed}[facing=west,occupied=true,part=head], Block{minecraft:red_bed}[facing=north,occupied=true,part=head], Block{minecraft:light_blue_bed}[facing=south,occupied=false,part=head], Block{minecraft:green_bed}[facing=north,occupied=true,part=head], Block{minecraft:gray_bed}[facing=west,occupied=false,part=head], Block{minecraft:red_bed}[facing=east,occupied=false,part=head], Block{minecraft:green_bed}[facing=east,occupied=true,part=head], Block{minecraft:orange_bed}[facing=south,occupied=true,part=head], Block{minecraft:blue_bed}[facing=east,occupied=false,part=head], Block{minecraft:white_bed}[facing=south,occupied=false,part=head], Block{minecraft:brown_bed}[facing=west,occupied=false,part=head], Block{minecraft:lime_bed}[facing=west,occupied=false,part=head], Block{minecraft:magenta_bed}[facing=east,occupied=false,part=head], Block{minecraft:orange_bed}[facing=east,occupied=true,part=head], Block{minecraft:pink_bed}[facing=east,occupied=false,part=head], Block{minecraft:black_bed}[facing=east,occupied=false,part=head], Block{minecraft:light_gray_bed}[facing=east,occupied=false,part=head], Block{minecraft:light_blue_bed}[facing=north,occupied=true,part=head], Block{minecraft:pink_bed}[facing=north,occupied=true,part=head], Block{minecraft:light_gray_bed}[facing=north,occupied=false,part=head], Block{minecraft:light_gray_bed}[facing=south,occupied=false,part=head], Block{minecraft:pink_bed}[facing=south,occupied=false,part=head], Block{minecraft:red_bed}[facing=east,occupied=true,part=head], Block{minecraft:light_blue_bed}[facing=east,occupied=true,part=head], Block{minecraft:purple_bed}[facing=north,occupied=true,part=head], Block{minecraft:cyan_bed}[facing=east,occupied=true,part=head], Block{minecraft:brown_bed}[facing=east,occupied=false,part=head], Block{minecraft:cyan_bed}[facing=north,occupied=false,part=head], Block{minecraft:magenta_bed}[facing=south,occupied=true,part=head], Block{minecraft:brown_bed}[facing=west,occupied=true,part=head], Block{minecraft:yellow_bed}[facing=east,occupied=false,part=head], Block{minecraft:white_bed}[facing=north,occupied=false,part=head], Block{minecraft:brown_bed}[facing=south,occupied=false,part=head], Block{minecraft:blue_bed}[facing=west,occupied=false,part=head], Block{minecraft:blue_bed}[facing=south,occupied=true,part=head], Block{minecraft:light_gray_bed}[facing=south,occupied=true,part=head], Block{minecraft:magenta_bed}[facing=west,occupied=false,part=head], Block{minecraft:yellow_bed}[facing=south,occupied=true,part=head], Block{minecraft:white_bed}[facing=east,occupied=false,part=head], Block{minecraft:pink_bed}[facing=west,occupied=true,part=head], Block{minecraft:white_bed}[facing=west,occupied=true,part=head], Block{minecraft:pink_bed}[facing=south,occupied=true,part=head], Block{minecraft:yellow_bed}[facing=south,occupied=false,part=head], Block{minecraft:gray_bed}[facing=east,occupied=false,part=head], Block{minecraft:red_bed}[facing=south,occupied=true,part=head], Block{minecraft:light_gray_bed}[facing=east,occupied=true,part=head], Block{minecraft:lime_bed}[facing=east,occupied=true,part=head], Block{minecraft:green_bed}[facing=east,occupied=false,part=head], Block{minecraft:yellow_bed}[facing=west,occupied=false,part=head], Block{minecraft:gray_bed}[facing=west,occupied=true,part=head], Block{minecraft:cyan_bed}[facing=south,occupied=true,part=head], Block{minecraft:orange_bed}[facing=north,occupied=true,part=head], Block{minecraft:yellow_bed}[facing=west,occupied=true,part=head], Block{minecraft:purple_bed}[facing=west,occupied=false,part=head], Block{minecraft:lime_bed}[facing=east,occupied=false,part=head], Block{minecraft:pink_bed}[facing=north,occupied=false,part=head], Block{minecraft:light_gray_bed}[facing=west,occupied=true,part=head], Block{minecraft:lime_bed}[facing=south,occupied=true,part=head], Block{minecraft:light_blue_bed}[facing=west,occupied=false,part=head], Block{minecraft:blue_bed}[facing=north,occupied=false,part=head], Block{minecraft:purple_bed}[facing=south,occupied=true,part=head], Block{minecraft:lime_bed}[facing=north,occupied=false,part=head], Block{minecraft:light_gray_bed}[facing=north,occupied=true,part=head], Block{minecraft:brown_bed}[facing=south,occupied=true,part=head], Block{minecraft:lime_bed}[facing=west,occupied=true,part=head], Block{minecraft:red_bed}[facing=west,occupied=false,part=head], Block{minecraft:cyan_bed}[facing=west,occupied=true,part=head], Block{minecraft:purple_bed}[facing=east,occupied=true,part=head], Block{minecraft:gray_bed}[facing=south,occupied=false,part=head], Block{minecraft:black_bed}[facing=west,occupied=false,part=head], Block{minecraft:blue_bed}[facing=west,occupied=true,part=head], Block{minecraft:cyan_bed}[facing=east,occupied=false,part=head], Block{minecraft:gray_bed}[facing=north,occupied=true,part=head], Block{minecraft:light_blue_bed}[facing=north,occupied=false,part=head], Block{minecraft:green_bed}[facing=north,occupied=false,part=head], Block{minecraft:magenta_bed}[facing=north,occupied=false,part=head], Block{minecraft:yellow_bed}[facing=east,occupied=true,part=head], Block{minecraft:red_bed}[facing=north,occupied=false,part=head], Block{minecraft:cyan_bed}[facing=north,occupied=true,part=head], Block{minecraft:white_bed}[facing=south,occupied=true,part=head], Block{minecraft:green_bed}[facing=south,occupied=true,part=head], Block{minecraft:red_bed}[facing=south,occupied=false,part=head], Block{minecraft:magenta_bed}[facing=south,occupied=false,part=head], Block{minecraft:lime_bed}[facing=north,occupied=true,part=head], Block{minecraft:yellow_bed}[facing=north,occupied=true,part=head], Block{minecraft:black_bed}[facing=north,occupied=true,part=head], Block{minecraft:brown_bed}[facing=north,occupied=true,part=head], Block{minecraft:magenta_bed}[facing=north,occupied=true,part=head], Block{minecraft:cyan_bed}[facing=west,occupied=false,part=head], Block{minecraft:lime_bed}[facing=south,occupied=false,part=head], Block{minecraft:light_blue_bed}[facing=south,occupied=true,part=head], Block{minecraft:red_bed}[facing=west,occupied=true,part=head], Block{minecraft:light_gray_bed}[facing=west,occupied=false,part=head], Block{minecraft:black_bed}[facing=north,occupied=false,part=head], Block{minecraft:green_bed}[facing=south,occupied=false,part=head], Block{minecraft:blue_bed}[facing=south,occupied=false,part=head], Block{minecraft:black_bed}[facing=south,occupied=false,part=head], Block{minecraft:white_bed}[facing=east,occupied=true,part=head], Block{minecraft:magenta_bed}[facing=east,occupied=true,part=head], Block{minecraft:yellow_bed}[facing=north,occupied=false,part=head], Block{minecraft:gray_bed}[facing=east,occupied=true,part=head], Block{minecraft:gray_bed}[facing=south,occupied=true,part=head], Block{minecraft:orange_bed}[facing=west,occupied=false,part=head], Block{minecraft:green_bed}[facing=west,occupied=true,part=head], Block{minecraft:white_bed}[facing=north,occupied=true,part=head], Block{minecraft:green_bed}[facing=west,occupied=false,part=head], Block{minecraft:orange_bed}[facing=east,occupied=false,part=head], Block{minecraft:blue_bed}[facing=east,occupied=true,part=head], Block{minecraft:black_bed}[facing=east,occupied=true,part=head], Block{minecraft:black_bed}[facing=west,occupied=true,part=head], Block{minecraft:brown_bed}[facing=east,occupied=true,part=head], Block{minecraft:light_blue_bed}[facing=east,occupied=false,part=head], Block{minecraft:white_bed}[facing=west,occupied=false,part=head], Block{minecraft:cyan_bed}[facing=south,occupied=false,part=head], Block{minecraft:pink_bed}[facing=east,occupied=true,part=head]], maxTickets=1, validRange=1]} @ BlockPos{x=-466, y=73, z=170}
+[05:19:40] [Server thread/DEBUG]: Mismatch in destroy block pos: BlockPos{x=-461, y=73, z=181} BlockPos{x=-461, y=73, z=180}
+[05:19:40] [Server thread/DEBUG]: Mismatch in destroy block pos: BlockPos{x=-461, y=72, z=181} BlockPos{x=-461, y=73, z=180}
+[05:19:40] [Server thread/DEBUG]: Mismatch in destroy block pos: BlockPos{x=-461, y=72, z=182} BlockPos{x=-461, y=73, z=180}
+[05:29:39] [Server thread/INFO]: BlockCity4K lost connection: Disconnected
+[05:29:39] [Server thread/INFO]: BlockCity4K left the game
+[05:31:49] [User Authenticator #4/DEBUG]: Connecting to https://sessionserver.mojang.com/session/minecraft/hasJoined?serverId=-279c2a163591e22e7d647d9a9d24a8db407f940e&username=mkaayyyy
+[05:31:49] [User Authenticator #4/INFO]: UUID of player mkaayyyy is 1d0b5237-22d7-4cd1-88ad-aef8566b6863
+[05:31:50] [Server thread/INFO]: mkaayyyy joined the game
+[05:31:50] [Server thread/INFO]: mkaayyyy[/207.6.231.187:65043] logged in with entity id 5710 at ([world]-505.9503672041854, 117.0, 36.764428387529954)
+[05:31:50] [Server thread/INFO]: [@: Set [hasLeft] for mkaayyyy to 0]
+[05:32:04] [Server thread/INFO]: Alkxz4 lost connection: Disconnected
+[05:32:04] [Server thread/INFO]: Alkxz4 left the game
+[05:32:07] [User Authenticator #4/DEBUG]: Connecting to https://sessionserver.mojang.com/session/minecraft/hasJoined?serverId=54098fedbf1458e68d14a919b6e4685fa69474fb&username=Alkxz4
+[05:32:07] [User Authenticator #4/INFO]: UUID of player Alkxz4 is f7a08a1b-a79d-4d21-ad4e-2a5d5136f349
+[05:32:08] [Server thread/INFO]: Alkxz4 joined the game
+[05:32:08] [Server thread/INFO]: Alkxz4[/207.216.9.73:50652] logged in with entity id 5773 at ([world]-276.65836437632765, 75.0, -98.30000001192093)
+[05:32:13] [Async Chat Thread - #7/INFO]: <mkaayyyy> hi alivia
+[05:32:16] [Async Chat Thread - #7/INFO]: <Alkxz4> h
+[05:35:57] [Async Chat Thread - #9/INFO]: <mkaayyyy> can i take quartz or do u need
+[05:36:06] [Async Chat Thread - #9/INFO]: <Alkxz4> i need most of it for trading
+[05:36:10] [Async Chat Thread - #9/INFO]: <mkaayyyy> oh oki
+[05:36:15] [Async Chat Thread - #9/INFO]: <Alkxz4> yea sory
+[05:36:22] [Async Chat Thread - #9/INFO]: <mkaayyyy> its aight
+[05:36:35] [Server thread/DEBUG]: mkaayyyy is sending move packets too frequently (40 packets since last tick)
+[05:36:35] [Server thread/WARN]: mkaayyyy moved too quickly! -11.36561406370572,3.176759275064242,2.2999611230395516
+[05:42:21] [Server thread/DEBUG]: Mismatch in destroy block pos: BlockPos{x=-41, y=91, z=-2} BlockPos{x=-41, y=91, z=-3}
+[05:42:21] [Server thread/DEBUG]: Mismatch in destroy block pos: BlockPos{x=-40, y=90, z=-2} BlockPos{x=-41, y=91, z=-3}
+[05:43:08] [Async Chat Thread - #11/INFO]: <Alkxz4> s
+[05:43:20] [Async Chat Thread - #11/INFO]: <Alkxz4> do u want quartz i got mroe
+[05:43:26] [Async Chat Thread - #11/INFO]: <mkaayyyy> YES
+[05:43:31] [Async Chat Thread - #11/INFO]: <Alkxz4> ok wya
+[05:44:28] [Async Chat Thread - #11/INFO]: <Alkxz4> ill put quartz in ur food chest
+[05:44:32] [Async Chat Thread - #11/INFO]: <mkaayyyy> ok
+[05:45:08] [Async Chat Thread - #11/INFO]: <Alkxz4> theres andesite near ur house right
+[05:45:10] [Async Chat Thread - #11/INFO]: <Alkxz4> where is it
+[05:45:19] [Async Chat Thread - #11/INFO]: <mkaayyyy> waterfall i think
+[05:45:21] [Async Chat Thread - #11/INFO]: <Alkxz4> ok
+[05:46:45] [Async Chat Thread - #13/INFO]: <Alkxz4> hmm
+[05:54:04] [Server thread/INFO]: Alkxz4 lost connection: Disconnected
+[05:54:04] [Server thread/INFO]: Alkxz4 left the game
+[05:54:06] [User Authenticator #5/DEBUG]: Connecting to https://sessionserver.mojang.com/session/minecraft/hasJoined?serverId=-60275e82f69dc0b0e25218926006891cb600a443&username=Alkxz4
+[05:54:07] [User Authenticator #5/INFO]: UUID of player Alkxz4 is f7a08a1b-a79d-4d21-ad4e-2a5d5136f349
+[05:54:07] [Server thread/INFO]: Alkxz4 joined the game
+[05:54:07] [Server thread/INFO]: Alkxz4[/207.216.9.73:51911] logged in with entity id 8895 at ([world]-486.59570656602403, 102.0, -15.424742192103235)
+[06:01:19] [Netty Epoll Server IO #3/DEBUG]: Ping: (1.4-1.5.x) from /205.210.31.223:59358
+[06:04:05] [User Authenticator #6/DEBUG]: Connecting to https://sessionserver.mojang.com/session/minecraft/hasJoined?serverId=6c9ffd6634658263b01b4d2a6e114eba57db65e8&username=BlockCity4K
+[06:04:06] [User Authenticator #6/INFO]: UUID of player BlockCity4K is e5f05c89-3022-409b-8909-885be0d94150
+[06:04:07] [Server thread/INFO]: BlockCity4K joined the game
+[06:04:07] [Server thread/INFO]: BlockCity4K[/101.44.82.72:53364] logged in with entity id 9835 at ([world]-439.7520070420614, 81.0, 156.69444867728498)
+[06:04:12] [Async Chat Thread - #16/INFO]: <mkaayyyy> HAII
+[06:04:16] [Async Chat Thread - #16/INFO]: <BlockCity4K> HAIII ALICEEE
+[06:04:29] [Async Chat Thread - #16/INFO]: <Alkxz4> hi
+[06:05:14] [Server thread/INFO]: Alkxz4 lost connection: Disconnected
+[06:05:14] [Server thread/INFO]: Alkxz4 left the game
+[06:05:18] [User Authenticator #7/DEBUG]: Connecting to https://sessionserver.mojang.com/session/minecraft/hasJoined?serverId=3607ec6abb62bd9549ed83bbb9bb97deeb375aef&username=Alkxz4
+[06:05:18] [User Authenticator #7/INFO]: UUID of player Alkxz4 is f7a08a1b-a79d-4d21-ad4e-2a5d5136f349
+[06:05:19] [Server thread/INFO]: Alkxz4 joined the game
+[06:05:19] [Server thread/INFO]: Alkxz4[/207.216.9.73:52621] logged in with entity id 9956 at ([world]-359.15628662160674, 115.0, 129.1540304548685)
+[06:05:24] [Async Chat Thread - #16/INFO]: <BlockCity4K> icant
+[06:05:25] [Async Chat Thread - #16/INFO]: <mkaayyyy> andy says no sleep
+[06:05:26] [Async Chat Thread - #16/INFO]: <BlockCity4K> srr
+[06:05:33] [Async Chat Thread - #16/INFO]: <Alkxz4> oh
+[06:05:37] [Async Chat Thread - #16/INFO]: <BlockCity4K> i need my zombie
+[06:05:38] [Async Chat Thread - #16/INFO]: <mkaayyyy> i need permission to sleep
+[06:05:40] [Async Chat Thread - #16/INFO]: <BlockCity4K> NO
+[06:06:18] [Async Chat Thread - #16/INFO]: <BlockCity4K> where thf uck are the mobs
+[06:06:22] [Async Chat Thread - #16/INFO]: <Alkxz4> i ayte
+[06:06:26] [Server thread/INFO]: BlockCity4K issued server command: /paper mobcaps
+[06:06:30] [Server thread/INFO]: BlockCity4K issued server command: /paper mobcaps
+[06:06:34] [Server thread/INFO]: BlockCity4K issued server command: /paper entity list
+[06:06:42] [Async Chat Thread - #16/INFO]: <BlockCity4K> ui thought u were a creeper
+[06:06:45] [Async Chat Thread - #16/INFO]: <Alkxz4> lmfaoo
+[06:06:50] [Async Chat Thread - #16/INFO]: <Alkxz4> oh
+[06:08:25] [Server thread/DEBUG]: Removed POI of type Reference{ResourceKey[minecraft:point_of_interest_type / minecraft:home]=PoiType[matchingStates=[Block{minecraft:purple_bed}[facing=south,occupied=false,part=head], Block{minecraft:blue_bed}[facing=north,occupied=true,part=head], Block{minecraft:black_bed}[facing=south,occupied=true,part=head], Block{minecraft:purple_bed}[facing=north,occupied=false,part=head], Block{minecraft:orange_bed}[facing=south,occupied=false,part=head], Block{minecraft:magenta_bed}[facing=west,occupied=true,part=head], Block{minecraft:gray_bed}[facing=north,occupied=false,part=head], Block{minecraft:purple_bed}[facing=west,occupied=true,part=head], Block{minecraft:orange_bed}[facing=north,occupied=false,part=head], Block{minecraft:brown_bed}[facing=north,occupied=false,part=head], Block{minecraft:light_blue_bed}[facing=west,occupied=true,part=head], Block{minecraft:pink_bed}[facing=west,occupied=false,part=head], Block{minecraft:purple_bed}[facing=east,occupied=false,part=head], Block{minecraft:orange_bed}[facing=west,occupied=true,part=head], Block{minecraft:red_bed}[facing=north,occupied=true,part=head], Block{minecraft:light_blue_bed}[facing=south,occupied=false,part=head], Block{minecraft:green_bed}[facing=north,occupied=true,part=head], Block{minecraft:gray_bed}[facing=west,occupied=false,part=head], Block{minecraft:red_bed}[facing=east,occupied=false,part=head], Block{minecraft:green_bed}[facing=east,occupied=true,part=head], Block{minecraft:orange_bed}[facing=south,occupied=true,part=head], Block{minecraft:blue_bed}[facing=east,occupied=false,part=head], Block{minecraft:white_bed}[facing=south,occupied=false,part=head], Block{minecraft:brown_bed}[facing=west,occupied=false,part=head], Block{minecraft:lime_bed}[facing=west,occupied=false,part=head], Block{minecraft:magenta_bed}[facing=east,occupied=false,part=head], Block{minecraft:orange_bed}[facing=east,occupied=true,part=head], Block{minecraft:pink_bed}[facing=east,occupied=false,part=head], Block{minecraft:black_bed}[facing=east,occupied=false,part=head], Block{minecraft:light_gray_bed}[facing=east,occupied=false,part=head], Block{minecraft:light_blue_bed}[facing=north,occupied=true,part=head], Block{minecraft:pink_bed}[facing=north,occupied=true,part=head], Block{minecraft:light_gray_bed}[facing=north,occupied=false,part=head], Block{minecraft:light_gray_bed}[facing=south,occupied=false,part=head], Block{minecraft:pink_bed}[facing=south,occupied=false,part=head], Block{minecraft:red_bed}[facing=east,occupied=true,part=head], Block{minecraft:light_blue_bed}[facing=east,occupied=true,part=head], Block{minecraft:purple_bed}[facing=north,occupied=true,part=head], Block{minecraft:cyan_bed}[facing=east,occupied=true,part=head], Block{minecraft:brown_bed}[facing=east,occupied=false,part=head], Block{minecraft:cyan_bed}[facing=north,occupied=false,part=head], Block{minecraft:magenta_bed}[facing=south,occupied=true,part=head], Block{minecraft:brown_bed}[facing=west,occupied=true,part=head], Block{minecraft:yellow_bed}[facing=east,occupied=false,part=head], Block{minecraft:white_bed}[facing=north,occupied=false,part=head], Block{minecraft:brown_bed}[facing=south,occupied=false,part=head], Block{minecraft:blue_bed}[facing=west,occupied=false,part=head], Block{minecraft:blue_bed}[facing=south,occupied=true,part=head], Block{minecraft:light_gray_bed}[facing=south,occupied=true,part=head], Block{minecraft:magenta_bed}[facing=west,occupied=false,part=head], Block{minecraft:yellow_bed}[facing=south,occupied=true,part=head], Block{minecraft:white_bed}[facing=east,occupied=false,part=head], Block{minecraft:pink_bed}[facing=west,occupied=true,part=head], Block{minecraft:white_bed}[facing=west,occupied=true,part=head], Block{minecraft:pink_bed}[facing=south,occupied=true,part=head], Block{minecraft:yellow_bed}[facing=south,occupied=false,part=head], Block{minecraft:gray_bed}[facing=east,occupied=false,part=head], Block{minecraft:red_bed}[facing=south,occupied=true,part=head], Block{minecraft:light_gray_bed}[facing=east,occupied=true,part=head], Block{minecraft:lime_bed}[facing=east,occupied=true,part=head], Block{minecraft:green_bed}[facing=east,occupied=false,part=head], Block{minecraft:yellow_bed}[facing=west,occupied=false,part=head], Block{minecraft:gray_bed}[facing=west,occupied=true,part=head], Block{minecraft:cyan_bed}[facing=south,occupied=true,part=head], Block{minecraft:orange_bed}[facing=north,occupied=true,part=head], Block{minecraft:yellow_bed}[facing=west,occupied=true,part=head], Block{minecraft:purple_bed}[facing=west,occupied=false,part=head], Block{minecraft:lime_bed}[facing=east,occupied=false,part=head], Block{minecraft:pink_bed}[facing=north,occupied=false,part=head], Block{minecraft:light_gray_bed}[facing=west,occupied=true,part=head], Block{minecraft:lime_bed}[facing=south,occupied=true,part=head], Block{minecraft:light_blue_bed}[facing=west,occupied=false,part=head], Block{minecraft:blue_bed}[facing=north,occupied=false,part=head], Block{minecraft:purple_bed}[facing=south,occupied=true,part=head], Block{minecraft:lime_bed}[facing=north,occupied=false,part=head], Block{minecraft:light_gray_bed}[facing=north,occupied=true,part=head], Block{minecraft:brown_bed}[facing=south,occupied=true,part=head], Block{minecraft:lime_bed}[facing=west,occupied=true,part=head], Block{minecraft:red_bed}[facing=west,occupied=false,part=head], Block{minecraft:cyan_bed}[facing=west,occupied=true,part=head], Block{minecraft:purple_bed}[facing=east,occupied=true,part=head], Block{minecraft:gray_bed}[facing=south,occupied=false,part=head], Block{minecraft:black_bed}[facing=west,occupied=false,part=head], Block{minecraft:blue_bed}[facing=west,occupied=true,part=head], Block{minecraft:cyan_bed}[facing=east,occupied=false,part=head], Block{minecraft:gray_bed}[facing=north,occupied=true,part=head], Block{minecraft:light_blue_bed}[facing=north,occupied=false,part=head], Block{minecraft:green_bed}[facing=north,occupied=false,part=head], Block{minecraft:magenta_bed}[facing=north,occupied=false,part=head], Block{minecraft:yellow_bed}[facing=east,occupied=true,part=head], Block{minecraft:red_bed}[facing=north,occupied=false,part=head], Block{minecraft:cyan_bed}[facing=north,occupied=true,part=head], Block{minecraft:white_bed}[facing=south,occupied=true,part=head], Block{minecraft:green_bed}[facing=south,occupied=true,part=head], Block{minecraft:red_bed}[facing=south,occupied=false,part=head], Block{minecraft:magenta_bed}[facing=south,occupied=false,part=head], Block{minecraft:lime_bed}[facing=north,occupied=true,part=head], Block{minecraft:yellow_bed}[facing=north,occupied=true,part=head], Block{minecraft:black_bed}[facing=north,occupied=true,part=head], Block{minecraft:brown_bed}[facing=north,occupied=true,part=head], Block{minecraft:magenta_bed}[facing=north,occupied=true,part=head], Block{minecraft:cyan_bed}[facing=west,occupied=false,part=head], Block{minecraft:lime_bed}[facing=south,occupied=false,part=head], Block{minecraft:light_blue_bed}[facing=south,occupied=true,part=head], Block{minecraft:red_bed}[facing=west,occupied=true,part=head], Block{minecraft:light_gray_bed}[facing=west,occupied=false,part=head], Block{minecraft:black_bed}[facing=north,occupied=false,part=head], Block{minecraft:green_bed}[facing=south,occupied=false,part=head], Block{minecraft:blue_bed}[facing=south,occupied=false,part=head], Block{minecraft:black_bed}[facing=south,occupied=false,part=head], Block{minecraft:white_bed}[facing=east,occupied=true,part=head], Block{minecraft:magenta_bed}[facing=east,occupied=true,part=head], Block{minecraft:yellow_bed}[facing=north,occupied=false,part=head], Block{minecraft:gray_bed}[facing=east,occupied=true,part=head], Block{minecraft:gray_bed}[facing=south,occupied=true,part=head], Block{minecraft:orange_bed}[facing=west,occupied=false,part=head], Block{minecraft:green_bed}[facing=west,occupied=true,part=head], Block{minecraft:white_bed}[facing=north,occupied=true,part=head], Block{minecraft:green_bed}[facing=west,occupied=false,part=head], Block{minecraft:orange_bed}[facing=east,occupied=false,part=head], Block{minecraft:blue_bed}[facing=east,occupied=true,part=head], Block{minecraft:black_bed}[facing=east,occupied=true,part=head], Block{minecraft:black_bed}[facing=west,occupied=true,part=head], Block{minecraft:brown_bed}[facing=east,occupied=true,part=head], Block{minecraft:light_blue_bed}[facing=east,occupied=false,part=head], Block{minecraft:white_bed}[facing=west,occupied=false,part=head], Block{minecraft:cyan_bed}[facing=south,occupied=false,part=head], Block{minecraft:pink_bed}[facing=east,occupied=true,part=head]], maxTickets=1, validRange=1]} @ BlockPos{x=-514, y=117, z=37}
+[06:08:44] [Server thread/DEBUG]: Added POI of type minecraft:home @ BlockPos{x=-511, y=127, z=22}
+[06:08:59] [Async Chat Thread - #18/INFO]: <mkaayyyy> broke bed set spawn point yeah
+[06:09:46] [Async Chat Thread - #18/INFO]: <Alkxz4> no andesite...
+[06:11:35] [Async Chat Thread - #20/INFO]: <Alkxz4> andesite...wya
+[06:14:10] [Async Chat Thread - #22/INFO]: <Alkxz4> i shower
+[06:14:13] [Server thread/INFO]: Alkxz4 lost connection: Disconnected
+[06:14:13] [Server thread/INFO]: Alkxz4 left the game
+[06:14:51] [Server thread/INFO]: BlockCity4K issued server command: /save
+[06:14:53] [Server thread/INFO]: BlockCity4K issued server command: /save
+[06:14:57] [Server thread/INFO]: BlockCity4K issued server command: /save-all
+[06:14:57] [Server thread/INFO]: [BlockCity4K: Saved the game]
+[06:15:25] [Server thread/INFO]: BlockCity4K issued server command: /stop
+[06:15:25] [Server thread/INFO]: [BlockCity4K: Stopping the server]
+[06:15:25] [Server thread/WARN]: java.lang.Throwable: Server stopped
+[06:15:25] [Server thread/WARN]: 	at io.papermc.paper.util.TraceUtil.dumpTraceForThread(TraceUtil.java:16)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.safeShutdown(MinecraftServer.java:1141)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.halt(MinecraftServer.java:1136)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.server.commands.StopCommand.lambda$register$2(StopCommand.java:12)
+[06:15:25] [Server thread/WARN]: 	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.commands.Commands.performCommand(Commands.java:350)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.commands.Commands.performCommand(Commands.java:337)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.commands.Commands.performCommand(Commands.java:332)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2147)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2121)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318)
+[06:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[06:15:25] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1570)
+[06:15:25] [Server thread/INFO]: Stopping server
+[06:15:25] [Server thread/INFO]: Saving players
+[06:15:25] [Server thread/INFO]: mkaayyyy lost connection: Server closed
+[06:15:25] [Server thread/INFO]: mkaayyyy left the game
+[06:15:25] [Server thread/INFO]: BlockCity4K lost connection: Server closed
+[06:15:25] [Server thread/INFO]: BlockCity4K left the game
+[06:15:25] [Server thread/INFO]: Saving worlds
+[06:15:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:15:25] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[06:15:25] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[06:15:25] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[06:15:25] [Server thread/INFO]: [ChunkHolderManager] Saved 37 block chunks, 405 entity chunks, 0 poi chunks in world 'world' in 0.15s
+[06:15:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[06:15:25] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[06:15:25] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[06:15:25] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[06:15:25] [Server thread/INFO]: [ChunkHolderManager] Saved 24 block chunks, 81 entity chunks, 0 poi chunks in world 'world_nether' in 0.06s
+[06:15:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[06:15:25] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[06:15:25] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[06:15:25] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[06:15:25] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[06:15:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:15:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:15:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:15:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:15:25] [Thread-0/WARN]: java.lang.Throwable: Server stopped
+[06:15:25] [Thread-0/WARN]: 	at io.papermc.paper.util.TraceUtil.dumpTraceForThread(TraceUtil.java:16)
+[06:15:25] [Thread-0/WARN]: 	at net.minecraft.server.MinecraftServer.safeShutdown(MinecraftServer.java:1141)
+[06:15:25] [Thread-0/WARN]: 	at org.bukkit.craftbukkit.util.ServerShutdownThread.run(ServerShutdownThread.java:16)

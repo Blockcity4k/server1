@@ -44,7 +44,7 @@ settings:
       max: 2048.0
   log-villager-deaths: true
   log-named-deaths: true
-  debug: false
+  debug: true
 commands:
   tab-complete: 0
   send-namespaced: true
@@ -66,7 +66,7 @@ world-settings:
     merge-radius:
       item: 0.5
       exp: -1.0
-    mob-spawn-range: 8
+    mob-spawn-range: 32
     item-despawn-rate: 6000
     arrow-despawn-rate: 1200
     trident-despawn-rate: 1200
